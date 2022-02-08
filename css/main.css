@@ -1,3 +1,9 @@
 body {
     background-color: white;
 }
+p {
+    color: chocolate;
+}
+h2 {
+    font-size: 50px;
+}
